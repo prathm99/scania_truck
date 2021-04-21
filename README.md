@@ -3,12 +3,12 @@
 
 
 
-### `Architecture of this Project`
-[Link](https://drive.google.com/file/d/1r79j0UtO5clLSRizKoPTOE3USqnS8e1y/view?usp=sharing)
+#### Architecture of this Project
+![image](https://user-images.githubusercontent.com/65776533/115592644-19498a00-a2f1-11eb-9636-7755428f3e0c.png)
 
 
 
-### `Data Set Description`
+#### Data Set Description
 The dataset consists of data collected from heavy Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurised
 air that are utilized in various functions in a truck,such as braking and gear changes.
 
